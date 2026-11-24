@@ -9,6 +9,7 @@ Early detection of **delayed cerebral ischemia (DCI) after aneurysmal subarachno
 
 ## 🧠 Research interests
 - Status epilepticus
+- Cerebral ischemia
 - Quantitative EEG
 - Functional connectivity
 - Heart rate variability
