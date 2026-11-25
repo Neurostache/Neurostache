@@ -7,6 +7,11 @@ I am a physician trained in anesthesiology and critical care, working in a surgi
 ## 🔬 Doctoral research
 Early detection of **delayed cerebral ischemia (DCI) after aneurysmal subarachnoid hemorrhage**, combining continuous EEG and ECG-derived heart rate variability into a bedside predictive tool.
 
+University of Rennes :
+- Empenn IRISA (U1228 INSERM-INRIA)
+- CinetyKs LTSI (UMR INSERM 1099)
+
+
 ## 🧠 Research interests
 - Status epilepticus
 - Cerebral ischemia
